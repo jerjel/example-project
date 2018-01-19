@@ -1,9 +1,7 @@
-
-
-va
+typescript
+java
 kotlin
-
-t
-
-:!quit
-:sca::l
+scala
+ruby
+javascript
+rust
